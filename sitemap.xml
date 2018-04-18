@@ -5,12 +5,11 @@
     <lastmod>2018-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://psesinkclee.github.io/phone/index.html"/>
-    <image:image>
-      <image:loc>http://psesinkclee.github.io/images/topo_background5.svg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/down_arrow.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/topo_background6-01.svg</image:loc>
     </image:image>
   </url>
 </urlset>
