@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1524072348412">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1524073304799">
   <folder name="css">
     <file name="site_global.css" crc="4191027843"/>
-    <file name="index.css" crc="521441108" ref="index"/>
-    <file name="nomq_index.css" crc="414806510" ref="index"/>
+    <file name="index.css" crc="126471384" ref="index"/>
+    <file name="nomq_index.css" crc="3879100913" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,5 +31,5 @@
     </file>
     <file name="topo_background6-01_poster_.png" crc="4125930704" ref="index"/>
   </folder>
-  <file name="index.html" crc="287295412" seo="true" mt="1524072294589" redirect="true"/>
+  <file name="index.html" crc="141402237" seo="true" mt="1524073279131" redirect="true"/>
 </manifest>
