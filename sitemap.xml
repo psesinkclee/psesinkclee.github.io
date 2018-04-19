@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://psesinkclee.github.io/index.html</loc>
-    <lastmod>2018-04-18</lastmod>
+    <lastmod>2018-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,6 +10,48 @@
     </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/topo_background6-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/biomod2image.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870394x224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922394x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939394x231.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/biomod2image395x258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870670x380.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922670x412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939670x393.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870675x382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922675x415.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939674x395.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
