@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1524168387899">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1524231117762">
   <folder name="css">
-    <file name="site_global.css" crc="297657022"/>
-    <file name="index.css" crc="3777556970" ref="index"/>
-    <file name="nomq_index.css" crc="3796937816" ref="index"/>
+    <file name="site_global.css" crc="433095076"/>
+    <file name="index.css" crc="4260193658" ref="index"/>
+    <file name="nomq_index.css" crc="4190580562" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -74,5 +74,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4055835697" seo="true" mt="1524168351262" redirect="true"/>
+  <file name="index.html" crc="4174192257" seo="true" mt="1524231019348" redirect="true"/>
 </manifest>
