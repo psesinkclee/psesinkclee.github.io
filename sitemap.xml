@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://psesinkclee.github.io/index.html</loc>
-    <lastmod>2018-06-01</lastmod>
+    <lastmod>2018-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/topo_background6-01.svg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/down_arrow.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/topo_background6-01.svg</image:loc>
+      <image:loc>http://psesinkclee.github.io/images/solarrooftops_screenshot2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870.jpg</image:loc>
@@ -24,16 +27,13 @@
       <image:loc>http://psesinkclee.github.io/images/biomod2image.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870394x224.jpg</image:loc>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870666x377.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922394x243.jpg</image:loc>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922666x410.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939394x231.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://psesinkclee.github.io/images/biomod2image395x258.jpg</image:loc>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939666x391.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870675x382.jpg</image:loc>
@@ -45,15 +45,6 @@
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939674x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870666x377.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922666x410.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939666x391.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870638x362.jpg</image:loc>
     </image:image>
     <image:image>
@@ -61,6 +52,21 @@
     </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939638x374.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/solarrooftops_screenshot2394x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201537x870394x224.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201500x922394x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939394x231.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/biomod2image395x258.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
