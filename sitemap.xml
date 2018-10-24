@@ -47,9 +47,6 @@
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939674x395.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://psesinkclee.github.io/images/topo_desktop800_1-01.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://psesinkclee.github.io/images/solarrooftops_screenshot2409x230.jpg</image:loc>
     </image:image>
     <image:image>
@@ -60,6 +57,12 @@
     </image:image>
     <image:image>
       <image:loc>http://psesinkclee.github.io/images/pasted%20image%201916x939409x240.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/topo_desktop960_1-01.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://psesinkclee.github.io/images/biomod2image411x268.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

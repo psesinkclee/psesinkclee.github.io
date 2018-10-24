@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540398478953">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540399026003">
   <folder name="css">
     <file name="site_global.css" crc="433095076"/>
-    <file name="index.css" crc="4207600358" ref="index"/>
-    <file name="nomq_index.css" crc="371090102" ref="index"/>
+    <file name="index.css" crc="84782910" ref="index"/>
+    <file name="nomq_index.css" crc="3880502431" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -14,7 +14,7 @@
     <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4013959240" ref="phone>index"/>
+    <file name="favicon.ico" crc="4013959240" ref="phone>index:index"/>
     <file name="topo_background6-01.svg" crc="456854666" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -37,25 +37,13 @@
     <file name="biomod2image340x222.jpg" crc="337069192" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="solarrooftops_screenshot2.jpg" crc="3902036014" seo="true" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
+    <file name="solarrooftops_screenshot2.jpg" crc="3902036014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pasted image 1537x870638x362.jpg" crc="475830500" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1500x922638x393.jpg" crc="232553850" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pasted image 1916x939638x374.jpg" crc="486586372" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="biomod2image.jpg" crc="166216835" seo="true" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="biomod2image.jpg" crc="166216835" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -107,10 +95,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="topo_tablet1-01_poster_.png" crc="4218886888" ref="tablet>index"/>
-    <file name="topo_desktop800_1-01.svg" crc="3775955442" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="topo_desktop800_1-01_poster_.png" crc="3839218240" ref="index"/>
     <file name="solarrooftops_screenshot2409x230.jpg" crc="4093058264" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -123,20 +107,42 @@
     <file name="pasted image 1916x939409x240.jpg" crc="409572564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="solarrooftops_screenshot2456x257.jpg" crc="421902421" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1537x870458x260.jpg" crc="37638796" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1500x922458x282.jpg" crc="524351917" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 1916x939458x269.jpg" crc="283414381" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="biomod2image458x299.jpg" crc="4282450468" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="topo_desktop960_1-01.svg" crc="3993493544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="topo_desktop960_1-01_poster_.png" crc="357229486" ref="index"/>
+    <file name="biomod2image411x268.jpg" crc="3958602796" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="71154044" ref="tablet>index"/>
+      <file name="index.css" crc="3911423110" ref="tablet>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3947887461" seo="true" mt="1540398454208" redirect="true"/>
+    <file name="index.html" crc="371255833" seo="true" mt="1540398715227" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4079648524" ref="phone>index"/>
+      <file name="index.css" crc="3781775967" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="229411462" seo="true" mt="1540398449394" redirect="true"/>
+    <file name="index.html" crc="291271396" seo="true" mt="1540398725130" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3852287486" seo="true" mt="1540398467814" redirect="true"/>
+  <file name="index.html" crc="3885365947" seo="true" mt="1540399017454" redirect="true"/>
 </manifest>
