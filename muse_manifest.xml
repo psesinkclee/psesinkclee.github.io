@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540398344943">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540398478953">
   <folder name="css">
     <file name="site_global.css" crc="433095076"/>
     <file name="index.css" crc="4207600358" ref="index"/>
@@ -126,17 +126,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="288621478" ref="tablet>index"/>
+      <file name="index.css" crc="71154044" ref="tablet>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="40968258" seo="true" mt="1540397946310" redirect="true"/>
+    <file name="index.html" crc="3947887461" seo="true" mt="1540398454208" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="3802188764" ref="phone>index"/>
+      <file name="index.css" crc="4079648524" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="386560827" seo="true" mt="1540398323123" redirect="true"/>
+    <file name="index.html" crc="229411462" seo="true" mt="1540398449394" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3759035841" seo="true" mt="1540398221701" redirect="true"/>
+  <file name="index.html" crc="3852287486" seo="true" mt="1540398467814" redirect="true"/>
 </manifest>
