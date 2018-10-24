@@ -7,18 +7,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(c,b,d){var a=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var d=a[b]+"MaxTouchPoints";if(d in navigator&&navigator[d])return!0}try{return document.createEvent("TouchEvent"),!0}catch(f){}return!1}(),f=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var d=b[c];d.charAt(0)==" ";)d=d.substring(1,d.length);if(d.indexOf(a)==
+0)return d.substring(a.length,d.length)}return null};if(f("inbrowserediting")!="true"){var h,f=f("devicelock");f=="phone"&&d?h=d:f=="tablet"&&b&&(h=b);if(f!=c&&!h)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&d?h=d:window.matchMedia("(max-device-width: 960px)").matches&&b&&a&&(h=b);else{var c=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),f=window.screen.systemXDPI||0,g=window.screen.systemYDPI||0,f=f>0&&g>0?Math.min(screen.width/f,screen.height/g):
+0;(c<=370||f!=0&&f<=3)&&d?h=d:c<=960&&b&&a&&(h=b)}if(h)document.location=h+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","tablet/index.html","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://psesinkclee.github.io/phone/index.html"/>
+  <link media="only screen and (max-width: 960px)" rel="alternate" href="http://psesinkclee.github.io/tablet/index.html"/>
   <link rel="shortcut icon" href="images/favicon.ico?crc=4013959240"/>
   <title>paulmakesmaps</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=433095076"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=111228370" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4260955969" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=237681262" id="nomq_pagesheet"/>
@@ -41,7 +48,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem" id="ppu840"><!-- column -->
      <div class="clearfix colelem" id="pu840"><!-- group -->
       <div class="clip_frame grpelem" id="u840"><!-- svg -->
-       <img class="svg temp_no_img_src" id="u836" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1920" height="1070" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_img_src" id="u836" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1920" height="1070" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" src="images/blank.gif?crc=4208392903"/>
       </div>
       <div class="clearfix grpelem shared_content" id="u284" data-content-guid="u284_content"><!-- group -->
        <div class="clearfix grpelem" id="u287-29"><!-- content -->
@@ -100,7 +107,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu840"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu840"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u840"><!-- svg -->
-       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1600" height="892" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1600" height="892" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u284_content"><!-- placeholder node --></span>
       <span class="nonblock nontext anim_swing clip_frame grpelem placeholder" data-placeholder-for="u294_content"><!-- placeholder node --></span>
@@ -147,7 +154,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu840"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu840"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u840"><!-- svg -->
-       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1320" height="743" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1320" height="743" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u284_content"><!-- placeholder node --></span>
       <a class="nonblock nontext anim_swing clip_frame grpelem temp_no_id" href="index.html#projects" data-orig-id="u294"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/down_arrow.svg?crc=4053970892" width="67" height="30" alt="" data-mu-svgfallback="images/down_arrow_poster_.png?crc=3820250424" data-orig-id="u290" src="images/blank.gif?crc=4208392903"/></a>
@@ -194,7 +201,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu840"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu840"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u840"><!-- svg -->
-       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1024" height="576" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1024" height="576" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u284_content"><!-- placeholder node --></span>
       <a class="nonblock nontext anim_swing clip_frame grpelem temp_no_id" href="index.html#projects" data-orig-id="u294"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/down_arrow.svg?crc=4053970892" width="64" height="28" alt="" data-mu-svgfallback="images/down_arrow_poster_.png?crc=3820250424" data-orig-id="u290" src="images/blank.gif?crc=4208392903"/></a>
@@ -241,7 +248,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu840"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu840"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u840"><!-- svg -->
-       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1250" height="703" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1250" height="703" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u284_content"><!-- placeholder node --></span>
      </div>
@@ -287,7 +294,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="ppu840"><!-- column -->
      <div class="clearfix colelem temp_no_id" data-orig-id="pu840"><!-- group -->
       <div class="clip_frame grpelem temp_no_id" data-orig-id="u840"><!-- svg -->
-       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1349" height="759" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=4125930704" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
+       <img class="svg temp_no_id temp_no_img_src" data-orig-src="images/topo_background6-01.svg?crc=456854666" width="1349" height="759" alt="" data-mu-svgfallback="images/topo_background6-01_poster_.png?crc=535341018" data-orig-id="u836" src="images/blank.gif?crc=4208392903"/>
       </div>
       <span class="clearfix grpelem placeholder" data-placeholder-for="u284_content"><!-- placeholder node --></span>
      </div>
