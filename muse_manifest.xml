@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540397197275">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="psesinkclee.github.io" resolutions="1x" timestamp="1540397512470">
   <folder name="css">
     <file name="site_global.css" crc="433095076"/>
     <file name="index.css" crc="4260955969" ref="index"/>
@@ -16,12 +16,6 @@
   <folder name="images">
     <file name="favicon.ico" crc="4013959240" ref="phone>index"/>
     <file name="topo_background6-01.svg" crc="456854666" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -43,30 +37,17 @@
     </file>
     <file name="solarrooftops_screenshot2.jpg" crc="3902036014" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 1537x870638x362.jpg" crc="475830500" seo="true" ref="tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 1500x922638x393.jpg" crc="232553850" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="pasted image 1916x939638x374.jpg" crc="486586372" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="biomod2image.jpg" crc="166216835" seo="true" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="down_arrow.svg" crc="4053970892" seo="true" ref="index">
@@ -125,17 +106,15 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="3806875989" ref="tablet>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+      <file name="index.css" crc="456867913" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4205830140" seo="true" mt="1540397138237" redirect="true"/>
+    <file name="index.html" crc="158586984" seo="true" mt="1540397434304" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="492199265" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+      <file name="index.css" crc="230231633" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3867799852" seo="true" mt="1540396990811" redirect="true"/>
+    <file name="index.html" crc="81819717" seo="true" mt="1540397482459" redirect="true"/>
   </folder>
   <file name="index.html" crc="471457181" seo="true" mt="1540396990767" redirect="true"/>
 </manifest>
